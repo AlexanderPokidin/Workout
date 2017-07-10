@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Workout</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="text_title"></string>
+    <string name="text_description"></string>
 </resources>

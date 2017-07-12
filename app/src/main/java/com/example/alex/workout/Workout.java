@@ -1,3 +1,5 @@
+package com.example.alex.workout;
+
 /**
  * Created by User on 10.07.2017.
  */

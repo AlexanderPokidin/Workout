@@ -30,6 +30,5 @@ public class MainActivity extends Activity implements WorkoutListFragment.Workou
             intent.putExtra(DetailActivity.EXTRA_WORKOUT_ID, (int)id);
             startActivity(intent);
         }
-
     }
 }

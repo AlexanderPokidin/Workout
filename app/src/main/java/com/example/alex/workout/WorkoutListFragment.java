@@ -1,7 +1,6 @@
 package com.example.alex.workout;
 
 
-import android.content.Context;
 import android.os.Bundle;
 import android.app.ListFragment;
 import android.view.LayoutInflater;
